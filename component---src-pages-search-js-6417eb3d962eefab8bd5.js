@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[7],{Bxyr:function(t,e,n){"use strict";n.r(e);var a=n("tRbT"),o=n("q1tI"),r=n.n(o),c=n("7oih"),i=n("II4a");e.default=function(t){var e=t.location;return r.a.createElement(c.a,{location:e,noMeta:"true",noEdit:"true",noToC:"true",title:"搜索效果页"},r.a.createElement(a.a,{container:!0,spacing:2,justify:"center"},r.a.createElement(i.a,null)))}}}]);
+//# sourceMappingURL=component---src-pages-search-js-6417eb3d962eefab8bd5.js.map

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{w2l6:function(e,t,n){"use strict";n.r(t);var l=n("q1tI"),a=n.n(l),o=n("7oih");t.default=function(e){return a.a.createElement(o.a,{location:e,noEdit:"true",title:"404 Not Found"},a.a.createElement("div",null,a.a.createElement("div",null,a.a.createElement("h1",null,"没有找到这个页面"),a.a.createElement("p",null,"如果你是无意间来到这里的，请告诉我们你是从哪里来的哦。"))))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-fdd868f7c8ac31f4f176.js.map
